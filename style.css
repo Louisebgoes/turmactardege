@@ -1,4 +1,18 @@
-header{
-    background-color: rgb(148, 102, 192);
-    color:antiquewhite;
+*{
+    margin:0px;
+    padding:0px;
+}
+.cabecalho{
+    background-color: #3c371f;
+    color:black;
+    display: flex;
+}
+
+.imagem-logo{
+    width:321px;
+    height: 157px;
+}
+
+.lista{
+    color:blue;
 }
