@@ -16,7 +16,17 @@
     height: 157px;
 }
 
-.lista{
-    color:blue;
+.titulo{
+    font-size: 50px;
+    display:inline-block
+
 }
 
+.lista{
+    color:blue;
+    display: inline-block;
+}
+
+.item{
+    font-size: 20px;
+}
