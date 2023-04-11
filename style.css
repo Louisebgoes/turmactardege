@@ -18,8 +18,6 @@
 
 .titulo{
     font-size: 50px;
-    display:inline-block
-
 }
 
 .lista{
@@ -29,4 +27,24 @@
 
 .item{
     font-size: 20px;
+}
+
+.amarela{
+    background-color:#FFD966;
+    padding:150px 100px;
+    text-align: center;
+}
+
+.tituloamarelo{
+    font-size: 40px;
+}
+
+.imagemamarelo{
+    width: 400px;
+    height: 200px;
+}
+
+.textoamarelo{
+    font-size: 30px;
+    
 }
