@@ -1,2 +1,2 @@
-# turmactardege
-Repositorio criado para o GE turma C da tarde
+# geturmaemanha
+repositorio criado para o site da turma e manha do ge 2023
